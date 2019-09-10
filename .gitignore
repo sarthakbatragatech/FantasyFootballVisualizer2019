@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+my_env
+.my_env
+env/
+venv/
+ENV/
+fm/
+.fm
+
+# mypy
+.mypy_cache/
+.py_cache/
+__pycache__/
+
+#Miscellaneous
+.LICENSE
+.ipynb_checkpoints
+
+# OS generated files #
+.DS_Store
+
+# Visual Studio Code
+.vscode/*
+.code-workspace
