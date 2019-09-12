@@ -1,17 +1,21 @@
 import os
 from bs4 import BeautifulSoup
 import re
+import pandas as pd
 
 cwd = os.getcwd()
 
 position = 'RB'
+week = '1'
+html_path = cwd + '/data/week' + week + '/' + position + '_urlrawhtml.txt'
 
+# Reading raw html stored in text file at path
 def open_html(path):
     with open(path, 'rb') as f:
-        print(f'Opening File: {path}')
+        print(f'Opening File: {html_path} \n')
         return f.read()
 
-html = open_html(cwd + '/' + position + '_urlrawhtml.txt')    
+html = open_html(html_path)
     
 soup = BeautifulSoup(html, 'html.parser')
 
@@ -25,6 +29,8 @@ cur_player = columns.findNext('tr')
 finished = False
 # Initialize player_data to empty list
 player_data = []
+# Initialize master list which will store all player data
+all_data = []
 
 while finished != True:
     try:
@@ -48,12 +54,20 @@ while finished != True:
 
         # Last table row has no player data, hacky fix to not append it
         if i == len(info) - 1:
-            print(player_data)
+            all_data.append(player_data)
             player_data = []
 
         # Move onto the next player
         cur_player = cur_player.findNext('tr')
 
     except Exception as e:
-        print(e)
+        print("Done parsing all data\n")
         finished = True
+
+# Initialize dataframe which will store master list of all player data
+df = pd.DataFrame(all_data)
+csv_path = cwd + '/data/week' + week + '/' + position + '.csv'
+df.to_csv(csv_path, index = False)
+print(f'{position} Dataframe written to csv\n')
+
+df.head()
