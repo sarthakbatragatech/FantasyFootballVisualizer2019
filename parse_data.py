@@ -65,7 +65,11 @@ while finished != True:
         finished = True
 
 # Initialize dataframe which will store master list of all player data
-df = pd.DataFrame(all_data)
+columns = ['Player', 'Team', 'Games', 'Attempts', 
+'RushingYards', 'RushingTD', 'Targets', 'Receptions', 
+'ReceivingYards', 'ReceivingTD', 'FantasyPoints', 'FantasyPointsPerGame']
+
+df = pd.DataFrame(all_data, columns = columns)
 csv_path = cwd + '/data/week' + week + '/' + position + '.csv'
 df.to_csv(csv_path, index = False)
 print(f'{position} Dataframe written to csv\n')
