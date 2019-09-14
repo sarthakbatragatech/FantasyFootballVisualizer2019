@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # Dictionary assisting mapping every position to its correct 'URL' value 
 position_dict = {'QB': 10, 'RB': 20, 'WR': 30, 'TE': 40, 'K': 80, 'DEF': 99}
-position = 'RB'
+position = 'WR'
 week = '1'
 	
 # Url for fantasy points each NFL team allows to each position
@@ -25,4 +25,4 @@ print("Creating directory...\n")
 html_path = path + '/' + position + "_urlrawhtml.txt"
 outfile = open(html_path, "w")
 outfile.write(str(soup.prettify()))
-print("Writing raw html to output text file...\n")
+print(f"Writing raw html for position {position} to output text file...\n")

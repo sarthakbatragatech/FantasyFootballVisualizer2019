@@ -5,7 +5,7 @@ import pandas as pd
 
 cwd = os.getcwd()
 
-position = 'RB'
+position = 'WR'
 week = '1'
 html_path = cwd + '/data/week' + week + '/' + position + '/' + position + '_urlrawhtml.txt' 
 
@@ -64,11 +64,18 @@ while finished != True:
         print("Done parsing all data\n")
         finished = True
 
-# Initialize dataframe which will store master list of all player data
-columns = ['Player', 'Team', 'Games', 'Attempts', 
-'RushingYards', 'RushingTD', 'Targets', 'Receptions', 
-'ReceivingYards', 'ReceivingTD', 'FantasyPoints', 'FantasyPointsPerGame']
+# Based on position, columns of CSV change
+if position == 'RB':
+    columns = ['Player', 'Team', 'Games', 'Attempts',
+    'RushingYards', 'RushingTD', 'Targets', 'Receptions', 
+    'ReceivingYards', 'ReceivingTD', 'FantasyPoints', 'FantasyPointsPerGame']
 
+elif position == 'WR':
+    columns = ['Player', 'Team', 'Games', 'Targets', 'Receptions', 
+    'ReceivingYards', 'ReceivingTD', 'Attempts', 'RushingYards',
+    'RushingTD', 'FantasyPoints', 'FantasyPointsPerGame']
+
+# Initialize dataframe which will store master list of all player data
 df = pd.DataFrame(all_data, columns = columns)
 csv_path = cwd + '/data/week' + week + '/' + position + '/' + position + '.csv'
 df.to_csv(csv_path, index = False)
