@@ -824,7 +824,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             9
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             198
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -839,7 +839,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#ffffff" class="sort1">
             42.3
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -849,42 +849,42 @@ custom fantasy scoring to the stats, projections and rankings pages.
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
             2.
-            <a href="/stats/players/2930/DeSean_Jackson?LeagueID=193033">
-             DeSean Jackson
+            <a href="/stats/players/16280/Michael_Gallup?LeagueID=193033">
+             Michael Gallup
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            PHI
+            DAL
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            10
+            7
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            8
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            154
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
+            7
            </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            31.4
+            158
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            31.4
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            19.3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            19.3
            </td>
           </tr>
           <tr>
@@ -906,7 +906,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             7
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             158
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -921,7 +921,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#ffffff" class="sort1">
             31.3
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -931,24 +931,24 @@ custom fantasy scoring to the stats, projections and rankings pages.
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
             4.
-            <a href="/stats/players/16529/Marquise_Brown?LeagueID=193033">
-             Marquise Brown
+            <a href="/stats/players/2930/DeSean_Jackson?LeagueID=193033">
+             DeSean Jackson
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            BAL
+            PHI
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            5
+            10
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            4
+            8
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            147
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            154
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             2
@@ -962,34 +962,34 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            28.7
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            31.4
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            28.7
+            31.4
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
             5.
-            <a href="/stats/players/13167/DeAndre_Hopkins?LeagueID=193033">
-             DeAndre Hopkins
+            <a href="/stats/players/16529/Marquise_Brown?LeagueID=193033">
+             Marquise Brown
             </a>
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            HOU
+            BAL
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            13
+            5
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            8
+            4
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            111
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            147
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             2
@@ -1003,98 +1003,16 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            27.1
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            28.7
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            27.1
+            28.7
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
             6.
-            <a href="/stats/players/12366/T.Y._Hilton?LeagueID=193033">
-             T.Y. Hilton
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            IND
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            9
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            8
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            87
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            24.7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            24.7
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            7.
-            <a href="/stats/players/15158/Phillip_Dorsett?LeagueID=193033">
-             Phillip Dorsett
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            NE
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            95
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            23.5
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            23.5
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            8.
             <a href="/stats/players/16145/D.J._Chark?LeagueID=193033">
              D.J. Chark
             </a>
@@ -1111,7 +1029,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             4
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             146
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -1126,22 +1044,104 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
             22.6
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             22.6
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            7.
+            <a href="/stats/players/16648/Terry_McLaurin?LeagueID=193033">
+             Terry McLaurin
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            WAS
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            125
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            21.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            21.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            8.
+            <a href="/stats/players/13003/Keenan_Allen?LeagueID=193033">
+             Keenan Allen
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            LAC
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            123
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            22.3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            22.3
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
             9.
-            <a href="/stats/players/13003/Keenan_Allen?LeagueID=193033">
-             Keenan Allen
+            <a href="/stats/players/14137/John_Brown?LeagueID=193033">
+             John Brown
             </a>
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            LAC
+            BUF
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
@@ -1150,9 +1150,9 @@ custom fantasy scoring to the stats, projections and rankings pages.
             10
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            8
+            7
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             123
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -1167,39 +1167,36 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            22.3
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            21.8
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            22.3
+            21.8
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
             10.
-            <a href="/stats/players/14137/John_Brown?LeagueID=193033">
-             John Brown
+            <a href="/stats/players/15719/Michael_Thomas?LeagueID=193033">
+             Michael Thomas
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            BUF
+            NO
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            13
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             10
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             123
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -1208,22 +1205,107 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            21.8
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            21.8
+            17.3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            17.3
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
             11.
+            <a href="/stats/players/16144/Courtland_Sutton?LeagueID=193033">
+             Courtland Sutton
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            DEN
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            120
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            15.5
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            15.5
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            12.
             <a href="/stats/players/3061/Larry_Fitzgerald?LeagueID=193033">
              Larry Fitzgerald
             </a>
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
             ARI
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            13
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            113
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            21.3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            21.3
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            13.
+            <a href="/stats/players/13167/DeAndre_Hopkins?LeagueID=193033">
+             DeAndre Hopkins
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            HOU
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
@@ -1234,93 +1316,11 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             8
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            113
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            21.3
+            111
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            21.3
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            12.
-            <a href="/stats/players/16648/Terry_McLaurin?LeagueID=193033">
-             Terry McLaurin
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            WAS
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            5
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            125
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            21.0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            21.0
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            13.
-            <a href="/stats/players/11321/Danny_Amendola?LeagueID=193033">
-             Danny Amendola
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            DET
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            13
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            104
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
+            2
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
@@ -1331,11 +1331,11 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            19.9
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            27.1
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            19.9
+            27.1
            </td>
           </tr>
           <tr>
@@ -1357,7 +1357,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             6
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             106
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -1372,7 +1372,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
             19.6
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -1382,623 +1382,49 @@ custom fantasy scoring to the stats, projections and rankings pages.
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
             15.
-            <a href="/stats/players/12320/Alshon_Jeffery?LeagueID=193033">
-             Alshon Jeffery
+            <a href="/stats/players/14684/Tyrell_Williams?LeagueID=193033">
+             Tyrell Williams
             </a>
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            PHI
+            OAK
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             6
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            5
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            49
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            19.6
+            105
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            19.6
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            19.5
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            19.5
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
             16.
-            <a href="/stats/players/14684/Tyrell_Williams?LeagueID=193033">
-             Tyrell Williams
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            OAK
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            105
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            19.5
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            19.5
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            17.
-            <a href="/stats/players/16280/Michael_Gallup?LeagueID=193033">
-             Michael Gallup
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            DAL
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            158
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            19.3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            19.3
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            18.
-            <a href="/stats/players/15141/Chris_Conley?LeagueID=193033">
-             Chris Conley
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            JAC
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            97
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            18.7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            18.7
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            19.
-            <a href="/stats/players/15145/Jamison_Crowder?LeagueID=193033">
-             Jamison Crowder
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            NYJ
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            17
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            14
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            99
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            17.3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            17.3
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            20.
-            <a href="/stats/players/15719/Michael_Thomas?LeagueID=193033">
-             Michael Thomas
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            NO
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            13
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            10
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            123
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            17.3
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            17.3
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            21.
-            <a href="/stats/players/11492/Emmanuel_Sanders?LeagueID=193033">
-             Emmanuel Sanders
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            DEN
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            5
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            86
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            17.1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            17.1
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            22.
-            <a href="/stats/players/16144/Courtland_Sutton?LeagueID=193033">
-             Courtland Sutton
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            DEN
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            8
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            120
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            15.5
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            15.5
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            23.
-            <a href="/stats/players/11918/Randall_Cobb?LeagueID=193033">
-             Randall Cobb
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            DAL
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            5
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            69
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            14.9
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            14.9
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            24.
-            <a href="/stats/players/12692/Josh_Gordon?LeagueID=193033">
-             Josh Gordon
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            NE
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            73
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            14.8
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            14.8
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            25.
-            <a href="/stats/players/16129/Calvin_Ridley?LeagueID=193033">
-             Calvin Ridley
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            ATL
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            64
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            14.4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            14.4
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            26.
-            <a href="/stats/players/14298/Allen_Robinson?LeagueID=193033">
-             Allen Robinson
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            CHI
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            13
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            102
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            13.7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            13.7
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            27.
-            <a href="/stats/players/2755/Ted_Ginn_Jr?LeagueID=193033">
-             Ted Ginn Jr.
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            NO
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            101
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            13.6
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            13.6
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            28.
-            <a href="/stats/players/15881/Chris_Godwin?LeagueID=193033">
-             Chris Godwin
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            TB
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            53
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            12.8
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            12.8
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            29.
-            <a href="/stats/players/13459/Robert_Woods?LeagueID=193033">
-             Robert Woods
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            LAR
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            13
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            8
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            70
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            16
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            12.6
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            12.6
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            30.
-            <a href="/stats/players/15882/Kenny_Golladay?LeagueID=193033">
-             Kenny Golladay
+            <a href="/stats/players/11321/Danny_Amendola?LeagueID=193033">
+             Danny Amendola
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -2008,13 +1434,13 @@ custom fantasy scoring to the stats, projections and rankings pages.
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            9
+            13
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            4
+            7
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            42
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            104
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
@@ -2028,180 +1454,98 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            12.2
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            19.9
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            12.2
+            19.9
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            31.
-            <a href="/stats/players/11232/Julian_Edelman?LeagueID=193033">
-             Julian Edelman
+            17.
+            <a href="/stats/players/14298/Allen_Robinson?LeagueID=193033">
+             Allen Robinson
             </a>
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            NE
+            CHI
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            11
+            13
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            83
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            8
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
+            7
            </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            12.1
+            102
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            12.1
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            13.7
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            13.7
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            32.
-            <a href="/stats/players/11860/Julio_Jones?LeagueID=193033">
-             Julio Jones
+            18.
+            <a href="/stats/players/2755/Ted_Ginn_Jr?LeagueID=193033">
+             Ted Ginn Jr.
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            ATL
+            NO
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            11
+            7
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            31
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
+            7
            </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            12.1
+            101
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            12.1
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            13.6
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            13.6
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            33.
-            <a href="/stats/players/14449/Adam_Thielen?LeagueID=193033">
-             Adam Thielen
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            MIN
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            43
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            11.8
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            11.8
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            34.
-            <a href="/stats/players/16034/Dede_Westbrook?LeagueID=193033">
-             Dede Westbrook
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            JAC
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            6
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            5
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            30
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            11.7
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            11.7
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            35.
+            19.
             <a href="/stats/players/16527/A.J._Brown?LeagueID=193033">
              A.J. Brown
             </a>
@@ -2218,7 +1562,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             3
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             100
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -2233,7 +1577,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#ffffff" class="sort1">
             11.5
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -2242,148 +1586,66 @@ custom fantasy scoring to the stats, projections and rankings pages.
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            36.
-            <a href="/stats/players/16341/Trey_Quinn?LeagueID=193033">
-             Trey Quinn
+            20.
+            <a href="/stats/players/15145/Jamison_Crowder?LeagueID=193033">
+             Jamison Crowder
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            WAS
+            NYJ
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            6
+            17
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            14
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            99
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             4
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            33
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
+            17.3
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            11.3
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            11.3
+            17.3
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            37.
-            <a href="/stats/players/13379/Kenny_Stills?LeagueID=193033">
-             Kenny Stills
+            21.
+            <a href="/stats/players/15141/Chris_Conley?LeagueID=193033">
+             Chris Conley
             </a>
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            HOU
+            JAC
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            37
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            11.2
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            11.2
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            38.
-            <a href="/stats/players/16146/D.J._Moore?LeagueID=193033">
-             D.J. Moore
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            CAR
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            10
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
             7
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            76
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6
            </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            11.1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            11.1
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            39.
-            <a href="/stats/players/14602/Willie_Snead?LeagueID=193033">
-             Willie Snead
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            BAL
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            41
+            97
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
@@ -2397,39 +1659,39 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            11.1
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            18.7
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            11.1
+            18.7
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            40.
-            <a href="/stats/players/15237/Tyler_Lockett?LeagueID=193033">
-             Tyler Lockett
+            22.
+            <a href="/stats/players/15158/Phillip_Dorsett?LeagueID=193033">
+             Phillip Dorsett
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            SEA
+            NE
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            95
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             2
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            44
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -2438,16 +1700,16 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            10.9
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            23.5
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            10.9
+            23.5
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            41.
+            23.
             <a href="/stats/players/16650/D.K._Metcalf?LeagueID=193033">
              D.K. Metcalf
             </a>
@@ -2464,7 +1726,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             4
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             89
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -2479,7 +1741,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#ffffff" class="sort1">
             10.9
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -2488,274 +1750,189 @@ custom fantasy scoring to the stats, projections and rankings pages.
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            42.
-            <a href="/stats/players/16004/JuJu_Smith-Schuster?LeagueID=193033">
-             JuJu Smith-Schuster
+            24.
+            <a href="/stats/players/12366/T.Y._Hilton?LeagueID=193033">
+             T.Y. Hilton
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            PIT
+            IND
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
+            9
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
             8
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            87
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            24.7
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            24.7
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            25.
+            <a href="/stats/players/11492/Emmanuel_Sanders?LeagueID=193033">
+             Emmanuel Sanders
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            DEN
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            86
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            17.1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            17.1
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            26.
+            <a href="/stats/players/11232/Julian_Edelman?LeagueID=193033">
+             Julian Edelman
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            NE
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            11
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             6
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            78
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            10.8
+            83
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            10.8
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            12.1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            12.1
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            43.
-            <a href="/stats/players/14114/Odell_Beckham_Jr?LeagueID=193033">
-             Odell Beckham Jr.
+            27.
+            <a href="/stats/players/16004/JuJu_Smith-Schuster?LeagueID=193033">
+             JuJu Smith-Schuster
             </a>
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            CLE
+            PIT
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            11
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            71
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            10.6
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            10.6
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            44.
-            <a href="/stats/players/16306/Richie_James?LeagueID=193033">
-             Richie James
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            SF
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            39
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            10.4
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            10.4
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            45.
-            <a href="/stats/players/15519/Tyler_Boyd?LeagueID=193033">
-             Tyler Boyd
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            CIN
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            11
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
             8
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            60
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
+            6
            </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            10.3
+            78
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
-            10.3
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            10.8
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            10.8
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            46.
-            <a href="/stats/players/16757/Preston_Williams?LeagueID=193033">
-             Preston Williams
+            28.
+            <a href="/stats/players/16146/D.J._Moore?LeagueID=193033">
+             D.J. Moore
             </a>
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            MIA
+            CAR
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             1
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            5
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            3
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            24
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            9.9
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            9.9
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            47.
-            <a href="/stats/players/14232/Jarvis_Landry?LeagueID=193033">
-             Jarvis Landry
-            </a>
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            CLE
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            4
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            67
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
             10
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            0
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7
            </td>
            <td align="center" bgcolor="#e0e0e0" class="sort1">
-            9.7
-           </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
-            9.7
-           </td>
-          </tr>
-          <tr>
-           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            48.
-            <a href="/stats/players/16336/Tre'Quan_Smith?LeagueID=193033">
-             Tre'Quan Smith
-            </a>
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            NO
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            2
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            26
-           </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
-            1
+            76
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
@@ -2766,16 +1943,19 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
-            9.6
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
-            9.6
+            11.1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            11.1
            </td>
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#ffffff" class="sort1">
-            49.
+            29.
             <a href="/stats/players/15271/DeVante_Parker?LeagueID=193033">
              DeVante Parker
             </a>
@@ -2792,7 +1972,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             3
            </td>
-           <td align="center" bgcolor="#ffffff" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             75
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -2807,7 +1987,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#ffffff" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#ffffff" class="sort1">
             9.0
            </td>
            <td align="center" bgcolor="#ffffff" class="sort1">
@@ -2816,7 +1996,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
           </tr>
           <tr>
            <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
-            50.
+            30.
             <a href="/stats/players/14233/Cody_Latimer?LeagueID=193033">
              Cody Latimer
             </a>
@@ -2833,7 +2013,7 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             3
            </td>
-           <td align="center" bgcolor="#f7f7f7" class="sort1">
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
             74
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
@@ -2848,11 +2028,831 @@ custom fantasy scoring to the stats, projections and rankings pages.
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             0
            </td>
-           <td align="center" bgcolor="#e0e0e0" class="sort1">
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
             8.9
            </td>
            <td align="center" bgcolor="#f7f7f7" class="sort1">
             8.9
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            31.
+            <a href="/stats/players/12692/Josh_Gordon?LeagueID=193033">
+             Josh Gordon
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            NE
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            73
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            14.8
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            14.8
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            32.
+            <a href="/stats/players/14114/Odell_Beckham_Jr?LeagueID=193033">
+             Odell Beckham Jr.
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            CLE
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            11
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            71
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.6
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.6
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            33.
+            <a href="/stats/players/13459/Robert_Woods?LeagueID=193033">
+             Robert Woods
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            LAR
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            13
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            70
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            16
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            12.6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            12.6
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            34.
+            <a href="/stats/players/11918/Randall_Cobb?LeagueID=193033">
+             Randall Cobb
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            DAL
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            69
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            14.9
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            14.9
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            35.
+            <a href="/stats/players/15585/Will_Fuller?LeagueID=193033">
+             Will Fuller
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            HOU
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            69
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7.9
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7.9
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            36.
+            <a href="/stats/players/14232/Jarvis_Landry?LeagueID=193033">
+             Jarvis Landry
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            CLE
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            67
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            9.7
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            9.7
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            37.
+            <a href="/stats/players/16129/Calvin_Ridley?LeagueID=193033">
+             Calvin Ridley
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            ATL
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            64
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            14.4
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            14.4
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            38.
+            <a href="/stats/players/15519/Tyler_Boyd?LeagueID=193033">
+             Tyler Boyd
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            CIN
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            11
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            60
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.3
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            39.
+            <a href="/stats/players/12357/Mohamed_Sanu?LeagueID=193033">
+             Mohamed Sanu
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            ATL
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            57
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8.2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8.2
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            40.
+            <a href="/stats/players/12440/Marvin_Jones?LeagueID=193033">
+             Marvin Jones
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            DET
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            56
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            41.
+            <a href="/stats/players/15881/Chris_Godwin?LeagueID=193033">
+             Chris Godwin
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            TB
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            53
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            12.8
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            12.8
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            42.
+            <a href="/stats/players/16270/Marquez_Valdes-Scantling?LeagueID=193033">
+             Marquez Valdes-Scantling
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            GB
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            52
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7.2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7.2
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            43.
+            <a href="/stats/players/16206/James_Washington?LeagueID=193033">
+             James Washington
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            PIT
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            51
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6.1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6.1
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            44.
+            <a href="/stats/players/12320/Alshon_Jeffery?LeagueID=193033">
+             Alshon Jeffery
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            PHI
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            49
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            19.6
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            19.6
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            45.
+            <a href="/stats/players/15606/Rashard_Higgins?LeagueID=193033">
+             Rashard Higgins
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            CLE
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            46
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5.6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5.6
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            46.
+            <a href="/stats/players/16619/KeeSean_Johnson?LeagueID=193033">
+             KeeSean Johnson
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            ARI
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            46
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7.1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7.1
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            47.
+            <a href="/stats/players/15932/Cooper_Kupp?LeagueID=193033">
+             Cooper Kupp
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            LAR
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            10
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            46
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8.1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8.1
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            48.
+            <a href="/stats/players/15237/Tyler_Lockett?LeagueID=193033">
+             Tyler Lockett
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            SEA
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            44
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.9
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.9
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            49.
+            <a href="/stats/players/14449/Adam_Thielen?LeagueID=193033">
+             Adam Thielen
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            MIN
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            43
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            11.8
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            11.8
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            50.
+            <a href="/stats/players/14890/Damiere_Byrd?LeagueID=193033">
+             Damiere Byrd
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            ARI
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            42
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            6.2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            6.2
            </td>
           </tr>
          </table>
@@ -2861,11 +2861,11 @@ custom fantasy scoring to the stats, projections and rankings pages.
       </table>
       <br/>
       <div align="center">
-       <a href="?Season=2019&amp;GameWeek=1&amp;PosID=30&amp;LeagueID=193033&amp;order_by=FFPts&amp;sort_order=DESC&amp;cur_page=1">
+       <a href="?Season=2019&amp;GameWeek=1&amp;PosID=30&amp;LeagueID=193033&amp;order_by=ReYd&amp;sort_order=DESC&amp;cur_page=1">
         Next Page
        </a>
        |
-       <a href="?Season=2019&amp;GameWeek=1&amp;PosID=30&amp;LeagueID=193033&amp;order_by=FFPts&amp;sort_order=DESC&amp;cur_page=2">
+       <a href="?Season=2019&amp;GameWeek=1&amp;PosID=30&amp;LeagueID=193033&amp;order_by=ReYd&amp;sort_order=DESC&amp;cur_page=2">
         Last Page
        </a>
       </div>
