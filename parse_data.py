@@ -7,7 +7,7 @@ cwd = os.getcwd()
 
 position = 'RB'
 week = '1'
-html_path = cwd + '/data/week' + week + '/' + position + '_urlrawhtml.txt'
+html_path = cwd + '/data/week' + week + '/' + position + '/' + position + '_urlrawhtml.txt' 
 
 # Reading raw html stored in text file at path
 def open_html(path):
@@ -70,7 +70,7 @@ columns = ['Player', 'Team', 'Games', 'Attempts',
 'ReceivingYards', 'ReceivingTD', 'FantasyPoints', 'FantasyPointsPerGame']
 
 df = pd.DataFrame(all_data, columns = columns)
-csv_path = cwd + '/data/week' + week + '/' + position + '.csv'
+csv_path = cwd + '/data/week' + week + '/' + position + '/' + position + '.csv'
 df.to_csv(csv_path, index = False)
 print(f'{position} Dataframe written to csv\n')
 

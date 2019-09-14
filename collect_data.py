@@ -8,7 +8,7 @@ position = 'RB'
 week = '1'
 	
 # Url for fantasy points each NFL team allows to each position
-url = "https://fftoday.com/stats/playerstats.php?Season=2019&GameWeek=1&PosID=" + str(position_dict[position]) + "&LeagueID=193033"
+url = "https://fftoday.com/stats/playerstats.php?Season=2019&GameWeek=1&PosID=" + str(position_dict[position]) + "&LeagueID=193033" + "&order_by=RuYd&sort_order=DESC"
 html_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'}
 
 r = requests.get(url, html_headers)
@@ -18,7 +18,7 @@ print("Request Status is %d \n" %r.status_code)
 soup = BeautifulSoup(r.content, 'html.parser')
 
 cwd = os.getcwd()
-path = cwd + '/data/week' + week
+path = cwd + '/data/week' + week + '/' + position
 os.makedirs(path, exist_ok = True)
 print("Creating directory...\n")
 
