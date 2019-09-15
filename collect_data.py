@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # Dictionary assisting mapping every position to its correct 'URL' value 
 position_dict = {'QB': 10, 'RB': 20, 'WR': 30, 'TE': 40, 'K': 80, 'DEF': 99}
-position = 'WR'
+position = 'TE'
 week = '1'
 	
 # Url for fantasy points each NFL team allows to each position
