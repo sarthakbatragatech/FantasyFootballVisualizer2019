@@ -1,0 +1,2328 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN'>
+<html>
+ <head>
+  <title>
+   Defense / Special Teams Stats: 2019 Week 1 - FF Today
+  </title>
+  <meta content="NFL and fantasy football stats from FFToday." name="description"/>
+  <meta content="stats, statistics, nfl, fantasy football, quarterbacks, running backs, wide receivers, tight ends, defensive linemen, linebackers, defensive backs" name="keywords"/>
+  <meta content="" property="og:image"/>
+  <link href="/fftoday2.css" rel="STYLESHEET" type="text/css"/>
+  <link href="/css/slimbox2.css" media="screen" rel="stylesheet" type="text/css">
+   <link href="/themes/fft_default/style.css" media="print, projection, screen" rel="stylesheet" type="text/css"/>
+   <script language="javascript" src="/rollOverColors.js" type="text/javascript">
+   </script>
+   <script src="/js/jquery.js" type="text/javascript">
+   </script>
+   <script src="/js/slimbox2.js" type="text/javascript">
+   </script>
+   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+   <script src="/js/jquery.tablesorter.js" type="text/javascript">
+   </script>
+   <script>
+    $(document).ready(function() 
+    { 
+        $('#myTable').tablesorter(); 
+    } 
+); 
+
+// extend the default setting to always include the zebra widget. 
+    $.tablesorter.defaults.widgets = ['zebra'];
+   </script>
+   <!-- Start DFP SETUP - Header Tags -->
+   <script type="text/javascript">
+    var gptadslots=[], googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+      (function(){ var gads = document.createElement('script');
+          gads.async = true; gads.type = 'text/javascript';
+          var useSSL = 'https:' == document.location.protocol;
+          gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(gads, node);
+      })();
+   </script>
+   <script src="https://img.bnqt.com/lib/js/sdpdfphelper.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    googletag.cmd.push(function() {
+          googletag.pubads().enableAsyncRendering(); googletag.pubads().enableSingleRequest();
+          googletag.pubads().setTargeting('title', sdpTargeting.title)
+                            .setTargeting('targetPaths', sdpTargeting.targetPaths)
+                            .setTargeting('fullPath', sdpTargeting.fullPath)
+                            .setTargeting('queryStr', sdpTargeting.queryStr)
+                            .setTargeting('domainName', sdpTargeting.domainName);
+      });
+   </script>
+   <!-- DFP SETUP end -->
+   <!-- Begin comScore Tag -->
+   <script>
+    var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035210" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+   </script>
+   <noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035210&amp;cv=2.0&amp;cj=1"/>
+   </noscript>
+   <!-- End comScore Tag -->
+   <!-- Begin Google Analytics -->
+   <script type="text/javascript">
+    var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37923979-1']);
+  _gaq.push(['_setDomainName', 'fftoday.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+   </script>
+   <!-- End Google Analytics -->
+   <!-- Social Share Buttons -->
+   <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
+   </script>
+   <div id="fb-root">
+   </div>
+   <script>
+    (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+   </script>
+   <!-- End Social Share Buttons -->
+  </link>
+ </head>
+ <body alink="#336699" leftmargin="0" link="005FA9" marginheight="0" marginwidth="0" text="#333333" topmargin="0" vlink="#666666">
+  <center>
+   <table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="990">
+    <tr>
+     <td bgcolor="#FFFFFF" rowspan="2" valign="top" width="10">
+     </td>
+     <td rowspan="2" valign="top" width="220">
+      <img height="5" src="/common/spacer_whi.gif" width="2"/>
+      <br/>
+      <a href="/index.html">
+       <img alt="Fantasy Football Today - fantasy football rankings, cheatsheets, and information" border="0" height="106" src="/creative/08_179_fftoday.gif" width="179"/>
+      </a>
+      <br/>
+      <span class="logotease">
+       A Fantasy Football Community!
+      </span>
+      <br/>
+      <!-- Todays Date -->
+      <img height="5" src="/common/spacer_whi.gif" width="1"/>
+      <br/>
+      <span class="date">
+       <!-- Todays Date -->
+       <script language="JavaScript">
+        <!--
+       var DayOfWeek = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+       var MonthName = new Array('January','February','March','April','May','June','July','August','September',
+                          'October','November','December');
+       var theDate = new Date();
+       document.write('<NOBR>' + 
+               DayOfWeek[theDate.getDay()] + ', ' +
+			   MonthName[theDate.getMonth()] + ' ' +
+               theDate.getDate() + ', 2019' +
+               
+              '</font></NOBR>');
+        //-->
+       </script>
+       <br/>
+       <img height="3" src="/common/spacer_whi.gif" width="2"/>
+       <br/>
+      </span>
+     </td>
+     <td align="center" valign="top">
+      <img height="5" src="/common/spacer_whi.gif" width="2"/>
+      <br/>
+      <!-- SMG_FFToday/728x90_1a/sports/fantasy/nfl.general -->
+      <div id="usmg_ad_SMG_FFToday_728x90_1a_sports_fantasy_nfl.general">
+       <script type="text/javascript">
+        googletag.cmd.push(function() {
+             googletag.defineSlot('/7103/SMG_FFToday/728x90_1a/sports/fantasy/nfl.general', [728,90], 'usmg_ad_SMG_FFToday_728x90_1a_sports_fantasy_nfl.general').addService(googletag.pubads());
+             googletag.enableServices();
+             googletag.display('usmg_ad_SMG_FFToday_728x90_1a_sports_fantasy_nfl.general');
+         });
+       </script>
+      </div>
+      <!-- SMG_FFToday/728x90_1a/sports/fantasy/nfl.general -->
+     </td>
+    </tr>
+    <tr>
+     <td align="right" class="date" rowspan="2" valign="bottom">
+      <a href="https://www.fftoday.com/members/?r=myfftoday">
+       Log In
+      </a>
+      |
+      <a href="https://www.fftoday.com/signup_fftoday.php">
+       Sign Up
+      </a>
+      |
+      <a href="https://www.fftoday.com/contact/index.htm">
+       Contact
+      </a>
+      <br/>
+      <img height="5" src="/common/spacer_whi.gif" width="2"/>
+      <br/>
+     </td>
+    </tr>
+   </table>
+   <!-- End Logo/Leaderboard Table -->
+   <div class="nav">
+    <ul>
+     <li id="mArticles">
+      <a href="/articles/index.htm">
+       articles
+      </a>
+     </li>
+     <li id="mRankings_Projections">
+      <a href="/rankings/index.html">
+       rankings / projections
+      </a>
+     </li>
+     <li id="mNews">
+      <a href="/news/index.php">
+       news
+      </a>
+     </li>
+     <li id="mContests">
+      <a href="/contests/index.php">
+       contests
+      </a>
+     </li>
+     <li id="mPlayers">
+      <a href="/stats/players">
+       players
+      </a>
+     </li>
+     <li id="mStats">
+      <a href="/stats/index.htm">
+       stats
+      </a>
+     </li>
+     <li id="mTools">
+      <a href="/tools/index.htm">
+       tools
+      </a>
+     </li>
+     <li id="mNFL_Resources">
+      <a href="/nfl/index.htm">
+       nfl resources
+      </a>
+     </li>
+     <li id="mForums">
+      <a href="https://www.fftodayforums.com/" onclick="_gaq.push(['_link','https://www.fftodayforums.com/']); return false;">
+       forums
+      </a>
+     </li>
+     <li id="mMy_FFToday">
+      <a href="/myfftoday/index.php">
+       my fftoday
+      </a>
+     </li>
+    </ul>
+    <div class="clear">
+    </div>
+   </div>
+   <!-- SMG_FFToday/launchpad/sports/fantasy/nfl.general -->
+   <div id="usmg_ad_SMG_FFToday_launchpad_sports_fantasy_nfl.general">
+    <script type="text/javascript">
+     googletag.cmd.push(function() {
+             googletag.defineSlot('/7103/SMG_FFToday/launchpad/sports/fantasy/nfl.general', [970,66], 'usmg_ad_SMG_FFToday_launchpad_sports_fantasy_nfl.general').addService(googletag.pubads());
+             googletag.enableServices();
+             googletag.display('usmg_ad_SMG_FFToday_launchpad_sports_fantasy_nfl.general');
+         });
+    </script>
+   </div>
+   <!-- SMG_FFToday/launchpad/sports/fantasy/nfl.general end -->
+   <table align="center" bgcolor="white" border="0" cellpadding="0" cellspacing="0" width="990">
+    <tr>
+     <td bgcolor="#ffffff" rowspan="2" valign="top" width="20">
+      <img height="2" src="/common/spacer_whi.gif" width="20"/>
+      <br/>
+     </td>
+     <td align="right" valign="top" width="770">
+      <img height="2" src="/common/spacer_whi.gif" width="5"/>
+      <br/>
+     </td>
+     <td bgcolor="#ffffff" rowspan="2" valign="top" width="20">
+      <img height="2" src="/common/spacer_whi.gif" width="20"/>
+      <br/>
+     </td>
+     <td align="center" class="adcolumn" valign="top" width="180">
+      <img height="2" src="/common/spacer_whi.gif" width="5"/>
+      <br/>
+     </td>
+    </tr>
+    <tr>
+     <td class="bodycontent" valign="top">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+       <tr>
+        <td width="100%">
+         <span class="breadcrumb">
+          <a class="breadcrumb" href="../stats/index.htm">
+           Stats
+          </a>
+          &gt; Player Stats
+         </span>
+        </td>
+        <td align="right" nowrap="">
+        </td>
+       </tr>
+      </table>
+      <img height="10" src="/common/spacer_whi.gif" width="5"/>
+      <table border="0" cellpadding="3" cellspacing="1" width="100%">
+       <tr>
+        <td class="pageheader">
+         Defense / Special Teams Stats: 2019
+        </td>
+        <td align="right" class="date" nowrap="" valign="bottom">
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         <img height="1" src="/common/hdr_nav_tile_black3.gif" width="765"/>
+        </td>
+       </tr>
+       <tr>
+        <td class="update" colspan="2" width="100%">
+         Week 1
+         <br/>
+        </td>
+       </tr>
+      </table>
+      <img alt="" border="0" height="4" src="/common/spacer_whi.gif" width="1"/>
+      <br/>
+      <!-- Begin Content Table------------------------------------------------->
+      <table class="bodycontent">
+       <tr>
+        <td>
+         <strong>
+          Want Custom Fantasy Scoring?
+         </strong>
+         <br/>
+         You are not logged in. You must be logged in and create a league profile to apply 
+custom fantasy scoring to the stats, projections and rankings pages.
+         <a href="../members/?r=playerstats">
+          Login
+         </a>
+         or
+         <a href="../signup.php?r=playerstats">
+          Register
+         </a>
+        </td>
+       </tr>
+      </table>
+      <br/>
+      <table class="bodycontent">
+       <tr>
+        <td valign="top">
+         <strong>
+          Season:
+         </strong>
+        </td>
+        <td>
+         <form>
+          <select class="articledrop" name="select" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+           <option selected="" value="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2019
+           </option>
+           <option value="?Season=2018&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2018
+           </option>
+           <option value="?Season=2017&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2017
+           </option>
+           <option value="?Season=2016&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2016
+           </option>
+           <option value="?Season=2015&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2015
+           </option>
+           <option value="?Season=2014&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2014
+           </option>
+           <option value="?Season=2013&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2013
+           </option>
+           <option value="?Season=2012&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2012
+           </option>
+           <option value="?Season=2011&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2011
+           </option>
+           <option value="?Season=2010&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2010
+           </option>
+           <option value="?Season=2009&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2009
+           </option>
+           <option value="?Season=2008&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2008
+           </option>
+           <option value="?Season=2007&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2007
+           </option>
+           <option value="?Season=2006&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2006
+           </option>
+           <option value="?Season=2005&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2005
+           </option>
+           <option value="?Season=2004&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2004
+           </option>
+           <option value="?Season=2003&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2003
+           </option>
+           <option value="?Season=2002&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2002
+           </option>
+           <option value="?Season=2001&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+            2001
+           </option>
+          </select>
+         </form>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <strong>
+          Position:
+         </strong>
+        </td>
+        <td>
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=10&amp;LeagueID=193033">
+          QB
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=20&amp;LeagueID=193033">
+          RB
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=30&amp;LeagueID=193033">
+          WR
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=40&amp;LeagueID=193033">
+          TE
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=80&amp;LeagueID=193033">
+          K
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+          DEF
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=50&amp;LeagueID=193033">
+          DL
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=60&amp;LeagueID=193033">
+          LB
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=70&amp;LeagueID=193033">
+          DB
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <strong>
+          Week:
+         </strong>
+        </td>
+        <td>
+         <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033">
+          1
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=2&amp;PosID=99&amp;LeagueID=193033">
+          2
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=3&amp;PosID=99&amp;LeagueID=193033">
+          3
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=4&amp;PosID=99&amp;LeagueID=193033">
+          4
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=5&amp;PosID=99&amp;LeagueID=193033">
+          5
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=6&amp;PosID=99&amp;LeagueID=193033">
+          6
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=7&amp;PosID=99&amp;LeagueID=193033">
+          7
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=8&amp;PosID=99&amp;LeagueID=193033">
+          8
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=9&amp;PosID=99&amp;LeagueID=193033">
+          9
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=10&amp;PosID=99&amp;LeagueID=193033">
+          10
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=11&amp;PosID=99&amp;LeagueID=193033">
+          11
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=12&amp;PosID=99&amp;LeagueID=193033">
+          12
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=13&amp;PosID=99&amp;LeagueID=193033">
+          13
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=14&amp;PosID=99&amp;LeagueID=193033">
+          14
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=15&amp;PosID=99&amp;LeagueID=193033">
+          15
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=16&amp;PosID=99&amp;LeagueID=193033">
+          16
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=17&amp;PosID=99&amp;LeagueID=193033">
+          17
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <strong>
+          Playoffs:
+         </strong>
+        </td>
+        <td>
+         <a href="?Season=2019&amp;GameWeek=21&amp;PosID=99&amp;LeagueID=193033">
+          Wild-Card
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=22&amp;PosID=99&amp;LeagueID=193033">
+          Divisional Playoffs
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=23&amp;PosID=99&amp;LeagueID=193033">
+          Conference Championships
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=24&amp;PosID=99&amp;LeagueID=193033">
+          Super Bowl
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <strong>
+          Options:
+         </strong>
+        </td>
+        <td>
+         <a href="?Season=2019&amp;GameWeek=Last3&amp;PosID=99&amp;LeagueID=193033">
+          Last 3 Weeks
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=Last5&amp;PosID=99&amp;LeagueID=193033">
+          Last 5 Weeks
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=Season&amp;PosID=99&amp;LeagueID=193033">
+          Season
+         </a>
+         |
+         <a href="?Season=2019&amp;GameWeek=Playoffs&amp;PosID=99&amp;LeagueID=193033">
+          Playoffs
+         </a>
+        </td>
+       </tr>
+      </table>
+      <br/>
+      <script language="JavaScript" type="text/javascript">
+       <!--
+ function reviewscoring_pop() { window.open('../myfftoday/reviewscoring.php?LeagueID=193033&PosID=99','ReviewScoring','width=250,height=400,resizable=yes,scrollbars=yes'); }
+ //-->
+      </script>
+      <table border="0" cellpadding="1" cellspacing="1" width="100%">
+       <form action="" method="get" name="PlayerStats">
+        <input name="Season" type="hidden" value="2019"/>
+        <input name="GameWeek" type="hidden" value="1"/>
+        <input name="PosID" type="hidden" value="99"/>
+        <tr>
+         <td align="left" nowrap="" valign="top">
+          <span class="smallbody">
+           FF Today Half-Point PPR Scoring:
+           <a href="javascript:reviewscoring_pop();">
+            Review Scoring
+           </a>
+          </span>
+         </td>
+         <td align="right" valign="top">
+          <select class="articledrop" name="LeagueID" onchange="this.form.submit();">
+           <option value="">
+            My FF Today
+           </option>
+           <option value="">
+           </option>
+           <option value="">
+            &gt; Pre-Set Scoring
+           </option>
+           <option value="1">
+            FFToday Standard
+           </option>
+           <option value="107644">
+            FFToday PPR
+           </option>
+           <option selected="" value="193033">
+            FFToday Half-Point PPR
+           </option>
+           <option value="26943">
+            CBS Sports
+           </option>
+           <option value="26955">
+            ESPN
+           </option>
+           <option value="17">
+            Yahoo!
+           </option>
+           <option value="143908">
+            NFL.com
+           </option>
+           <option value="107437">
+            FFPC
+           </option>
+           <option value="5">
+            NFFC
+           </option>
+          </select>
+         </td>
+        </tr>
+       </form>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+       <tr bgcolor="#eeeeee">
+        <td>
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr class="tablehdr">
+           <td align="center" colspan="2" nowrap="" valign="middle">
+           </td>
+           <td align="center" colspan="9" nowrap="">
+           </td>
+           <td align="center" bgcolor="#666666" colspan="2" nowrap="">
+            Fantasy
+           </td>
+          </tr>
+          <tr class="tableclmhdr">
+           <td align="center" nowrap="" valign="middle">
+            <b>
+             Team
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=City&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=City&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" nowrap="">
+            <b>
+             G
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=Play&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=Play&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             Sack
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=Sack&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=Sack&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             FR
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=FR&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=FR&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             INT
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=INTRet&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=INTRet&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             DefTD
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=DEFTD&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=DEFTD&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             PA
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=PA&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=PA&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             PaYd/G
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=DefPaYd&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=DefPaYd&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             RuYd/G
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=DefRuYd&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=DefRuYd&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             Safety
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=Safety&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=Safety&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" bgcolor="#e0e0e0" nowrap="">
+            <b>
+             KickTD
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=KickTD&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=KickTD&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" nowrap="">
+            <b>
+             FPts
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=FFPts&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=FFPts&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+           <td align="center" nowrap="">
+            <b>
+             FPts/G
+            </b>
+            <br/>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=FFPtsPerG&amp;sort_order=ASC">
+             <img border="0" height="14" src="../images/asc.gif" width="11"/>
+            </a>
+            <a href="?Season=2019&amp;GameWeek=1&amp;PosID=99&amp;LeagueID=193033&amp;order_by=FFPtsPerG&amp;sort_order=DESC">
+             <img border="0" height="14" src="../images/desc.gif" width="11"/>
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            1.
+            <a href="/stats/players?TeamID=9027&amp;LeagueID=193033">
+             San Francisco 49ers
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            17
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            194.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            121.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            23.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            23.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            2.
+            <a href="/stats/players?TeamID=9007&amp;LeagueID=193033">
+             Tennessee Titans
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            13
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            285.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            102.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            17.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            17.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            3.
+            <a href="/stats/players?TeamID=9004&amp;LeagueID=193033">
+             New York Jets
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            17
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            254.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            128.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            15.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            15.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            4.
+            <a href="/stats/players?TeamID=9013&amp;LeagueID=193033">
+             Seattle Seahawks
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            20
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            418.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            34.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            11.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            11.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            5.
+            <a href="/stats/players?TeamID=9023&amp;LeagueID=193033">
+             Tampa Bay Buccaneers
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            31
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            166.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            98.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            11.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            11.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            6.
+            <a href="/stats/players?TeamID=9022&amp;LeagueID=193033">
+             Minnesota Vikings
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            12
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            304.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            73.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            10.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            7.
+            <a href="/stats/players?TeamID=9030&amp;LeagueID=193033">
+             Baltimore Ravens
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            10
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            190.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            21.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            9.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            9.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            8.
+            <a href="/stats/players?TeamID=9032&amp;LeagueID=193033">
+             Los Angeles Rams
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            27
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            239.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            127.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            9.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            9.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            9.
+            <a href="/stats/players?TeamID=9026&amp;LeagueID=193033">
+             New Orleans Saints
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            28
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            268.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            180.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            8.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            10.
+            <a href="/stats/players?TeamID=9001&amp;LeagueID=193033">
+             Indianapolis Colts
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            30
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            333.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            125.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            8.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            8.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            11.
+            <a href="/stats/players?TeamID=9000&amp;LeagueID=193033">
+             Buffalo Bills
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            16
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            175.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            68.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            8.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            8.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            12.
+            <a href="/stats/players?TeamID=9017&amp;LeagueID=193033">
+             Arizona Cardinals
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            27
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            385.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            116.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            7.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            13.
+            <a href="/stats/players?TeamID=9021&amp;LeagueID=193033">
+             Green Bay Packers
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            228.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            46.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            7.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            7.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            14.
+            <a href="/stats/players?TeamID=9020&amp;LeagueID=193033">
+             Detroit Lions
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            27
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            308.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            112.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            7.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            7.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            15.
+            <a href="/stats/players?TeamID=9005&amp;LeagueID=193033">
+             Cincinnati Bengals
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            21
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            195.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            72.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            6.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            6.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            16.
+            <a href="/stats/players?TeamID=9006&amp;LeagueID=193033">
+             Cleveland Browns
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            4
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            43
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            248.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            123.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            6.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            6.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            17.
+            <a href="/stats/players?TeamID=9010&amp;LeagueID=193033">
+             Kansas City Chiefs
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            26
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            350.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            81.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            5.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            18.
+            <a href="/stats/players?TeamID=9019&amp;LeagueID=193033">
+             Chicago Bears
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            10
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            203.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            47.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            5.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            5.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            19.
+            <a href="/stats/players?TeamID=9014&amp;LeagueID=193033">
+             Dallas Cowboys
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            17
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            323.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            151.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            5.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            5.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            20.
+            <a href="/stats/players?TeamID=9031&amp;LeagueID=193033">
+             Houston Texans
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            30
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            370.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            148.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            3.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            21.
+            <a href="/stats/players?TeamID=9011&amp;LeagueID=193033">
+             Oakland Raiders
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            16
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            268.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            95.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            3.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            22.
+            <a href="/stats/players?TeamID=9028&amp;LeagueID=193033">
+             Carolina Panthers
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            30
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            186.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            166.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            3.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            3.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            23.
+            <a href="/stats/players?TeamID=9003&amp;LeagueID=193033">
+             New England Patriots
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            276.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            32.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            3.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            3.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            24.
+            <a href="/stats/players?TeamID=9033&amp;LeagueID=193033">
+             Los Angeles Chargers
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            24
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            190.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            203.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            2.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            2.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            25.
+            <a href="/stats/players?TeamID=9024&amp;LeagueID=193033">
+             Atlanta Falcons
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            28
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            98.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            172.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            1.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            26.
+            <a href="/stats/players?TeamID=9016&amp;LeagueID=193033">
+             Philadelphia Eagles
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            27
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            380.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            28.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            1.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            27.
+            <a href="/stats/players?TeamID=9008&amp;LeagueID=193033">
+             Pittsburgh Steelers
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            33
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            373.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            99.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            1.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            28.
+            <a href="/stats/players?TeamID=9002&amp;LeagueID=193033">
+             Miami Dolphins
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            59
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            379.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            265.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            1.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            29.
+            <a href="/stats/players?TeamID=9018&amp;LeagueID=193033">
+             Washington Redskins
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            32
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            313.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            123.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            1.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            30.
+            <a href="/stats/players?TeamID=9015&amp;LeagueID=193033">
+             New York Giants
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            35
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            405.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            89.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            0.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#ffffff" class="sort1">
+            31.
+            <a href="/stats/players?TeamID=9029&amp;LeagueID=193033">
+             Jacksonville Jaguars
+            </a>
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            40
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            378.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            113.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            0.0
+           </td>
+           <td align="center" bgcolor="#ffffff" class="sort1">
+            0.0
+           </td>
+          </tr>
+          <tr>
+           <td align="LEFT" bgcolor="#f7f7f7" class="sort1">
+            32.
+            <a href="/stats/players?TeamID=9009&amp;LeagueID=193033">
+             Denver Broncos
+            </a>
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            1
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            24
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            259.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            98.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0
+           </td>
+           <td align="center" bgcolor="#e0e0e0" class="sort1">
+            0.0
+           </td>
+           <td align="center" bgcolor="#f7f7f7" class="sort1">
+            0.0
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+      </table>
+      <br/>
+      <div align="center">
+      </div>
+      <br/>
+     </td>
+     <td align="center" bgcolor="#f7f7f7" class="adcolumn" valign="top">
+      <img height="54" src="/common/spacer_whi.gif" width="5"/>
+      <br/>
+      <!-- SMG_FFToday/160x600_1a/sports/fantasy/nfl.general -->
+      <div id="usmg_ad_SMG_FFToday_160x600_1a_sports_fantasy_nfl.general">
+       <script type="text/javascript">
+        googletag.cmd.push(function() {
+             googletag.defineSlot('/7103/SMG_FFToday/160x600_1a/sports/fantasy/nfl.general', [160,600], 'usmg_ad_SMG_FFToday_160x600_1a_sports_fantasy_nfl.general').addService(googletag.pubads());
+             googletag.enableServices();
+             googletag.display('usmg_ad_SMG_FFToday_160x600_1a_sports_fantasy_nfl.general');
+         });
+       </script>
+      </div>
+      <!-- SMG_FFToday/160x600_1a/sports/fantasy/nfl.general end -->
+      <br/>
+      <br/>
+      <!-- SMG_FFToday/160x600_2a/sports/fantasy/nfl.general -->
+      <div id="usmg_ad_SMG_FFToday_160x600_2a_sports_fantasy_nfl.general">
+       <script type="text/javascript">
+        googletag.cmd.push(function() {
+             googletag.defineSlot('/7103/SMG_FFToday/160x600_2a/sports/fantasy/nfl.general', [160,600], 'usmg_ad_SMG_FFToday_160x600_2a_sports_fantasy_nfl.general').addService(googletag.pubads());
+             googletag.enableServices();
+             googletag.display('usmg_ad_SMG_FFToday_160x600_2a_sports_fantasy_nfl.general');
+         });
+       </script>
+      </div>
+      <!-- SMG_FFToday/160x600_2a/sports/fantasy/nfl.general end -->
+      <br/>
+     </td>
+    </tr>
+   </table>
+   <!-- End Main Table -->
+   <!-- Footer ----------------------->
+   <table border="0" cellpadding="3" cellspacing="1" width="990">
+    <tr>
+     <td valign="top" width="525">
+      <div id="globalfooter">
+       <ul class="menu">
+        <li>
+         <a href="/about/index.htm">
+          Company
+         </a>
+         -
+        </li>
+        <li>
+         <a href="/privacy/index.htm">
+          Privacy Policy
+         </a>
+         -
+        </li>
+        <li>
+         <a href="/contact/index.htm">
+          Contact
+         </a>
+         -
+        </li>
+        <li>
+         <a href="/ad/index.htm">
+          Advertise
+         </a>
+         -
+        </li>
+        <li>
+         <a href="/members/?r=myfftoday">
+          Log In
+         </a>
+         -
+        </li>
+        <li>
+         <a href="/signup_fftoday.php">
+          Sign Up
+         </a>
+        </li>
+       </ul>
+       <p align="left" id="copyright">
+        Copyright © 1998-2019 FFToday.com. All rights reserved.
+        <br/>
+        FFToday.com is a member of the
+        <a href="https://fsta.org/">
+         Fantasy Sports 
+  Trade Association
+        </a>
+        .
+        <br/>
+        Partner of
+        <a href="https://www.usatoday.com/sports/">
+         USA TODAY Sports Digital Properties
+        </a>
+        .
+       </p>
+      </div>
+     </td>
+     <td align="left" class="copyright" nowrap="" valign="top" width="110">
+      <img height="20" src="/common/spacer_whi.gif" width="1"/>
+      <br/>
+      <a href="https://twitter.com/FF_Today">
+       <img border="0" height="30" src="/common/icn_twitter_follow_30.gif" width="99"/>
+      </a>
+     </td>
+     <td align="left" class="copyright" nowrap="" valign="top" width="355">
+      <img height="20" src="/common/spacer_whi.gif" width="1"/>
+      <br/>
+      <a href="https://www.facebook.com/fftoday">
+       <img border="0" height="30" src="/common/icn_facebook_find_30.gif" width="99"/>
+      </a>
+     </td>
+    </tr>
+   </table>
+   <!-- SMG_FFToday/skin/sports/fantasy/NFL.general -->
+   <!-- SMG_FFToday/skin/sports/fantasy/NFL.general end -->
+  </center>
+ </body>
+</html>

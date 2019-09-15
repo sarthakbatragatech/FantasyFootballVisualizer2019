@@ -5,7 +5,7 @@ import pandas as pd
 
 cwd = os.getcwd()
 
-position = 'K'
+position = 'DEF'
 week = '1'
 html_path = cwd + '/data/week' + week + '/' + position + '/' + position + '_urlrawhtml.txt' 
 
@@ -88,6 +88,11 @@ elif position == 'QB':
 elif position == 'K':
     columns = ['Player', 'Team', 'Games', 'FGM', 'FGA', 
     'FGPercentage', 'EPM', 'EPA', 'FantasyPoints', 'FantasyPointsPerGame']
+
+elif position == 'DEF':
+    columns = ['Team', 'Games', 'Sack', 'FumbleRecovery', 'Interception', 
+    'DEFTD', 'PointsAllowed', 'PassingYardsAllowed', 'RushingYardsAllowed', 
+    'Safety', 'KickTD', 'FantasyPoints', 'FantasyPointsPerGame']
 
 # Initialize dataframe which will store master list of all player data
 df = pd.DataFrame(all_data, columns = columns)
