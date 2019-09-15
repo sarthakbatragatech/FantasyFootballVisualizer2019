@@ -5,7 +5,7 @@ import pandas as pd
 
 cwd = os.getcwd()
 
-position = 'TE'
+position = 'QB'
 week = '1'
 html_path = cwd + '/data/week' + week + '/' + position + '/' + position + '_urlrawhtml.txt' 
 
@@ -80,10 +80,14 @@ elif position == 'TE':
     'ReceivingYards', 'ReceivingTD', 'FantasyPoints', 
     'FantasyPointsPerGame']
 
+elif position == 'QB':
+    columns = ['Player', 'Team', 'Games', 'PassingCompletions', 'PassingAttempts', 
+    'PassingYards', 'PassingTD', 'Interceptions','RushingAttempts', 
+    'RushingYards', 'RushingTD', 'FantasyPoints', 'FantasyPointsPerGame']
+
 # Initialize dataframe which will store master list of all player data
 df = pd.DataFrame(all_data, columns = columns)
 csv_path = cwd + '/data/week' + week + '/' + position + '/' + position + '.csv'
 df.to_csv(csv_path, index = False)
 print(f'{position} Dataframe written to csv\n')
 
-df.head()
